@@ -1,1 +1,2 @@
 # Codemania
+print('Hello World')
